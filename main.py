@@ -1,5 +1,5 @@
 
-url = "http://206.189.118.190:30277/"
+url = "your ip challenges"
 import requests
 import hashlib
 from bs4 import BeautifulSoup
